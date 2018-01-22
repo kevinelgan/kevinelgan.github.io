@@ -16,7 +16,7 @@
 title: Kevin Elgan
 description: My thoughts, reflections and musings on everything from books and tech, to coffee and ukulele.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://kevinelgan.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: kevinelgan.github.io # the GitHub repo name for your project
 github_username: kevinelgan
 
